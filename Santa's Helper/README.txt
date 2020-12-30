@@ -21,3 +21,8 @@ It uses SQLite database to store the gift registry items.
 
 References: https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
 
+Instructions:
+- Make sure you have Python3 installed.
+- Install Flask using pip package installer.
+- In a terminal, run "export FLASK_APP=app", followed by "flask run". This will start an HTTP server on port 5000.
+- In a browser, open the URL "http://localhost:5000". This will show the home screen of the application.
